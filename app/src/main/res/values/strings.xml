@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WhoDeletedMe</string>
+
+    <string name="parse_app_id">5XpMPJpzdrfrOTfC0Cn2bLn6xrZ2tER5MscY94NF</string>
+    <string name="parse_client_key">uHnpmyR5R8Ydf1daVY6VrmIxKfhNtXwGF1NwuZan</string>
+    <string name="facebook_app_id">1461478377480254</string>
+    <string name="facebook_secret">d7d3fffe6a056f3d7de1a7d14918cd7b</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_btn_text">Login with facebook</string>
+    <string name="title_activity_main_activity_tabbed">Who Deleted Me?</string>
+
+    <string name="title_section1">New Friends</string>
+    <string name="title_section2">All Friends</string>
+    <string name="title_section3">Deleted You</string>
+    <string name="title_section4">Deleted By Me</string>
+</resources>
